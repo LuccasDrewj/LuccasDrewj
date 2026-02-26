@@ -2,7 +2,7 @@
 <h1>Oioii me chamo Luccas J!</h1>
 
 <p>Sou um estudante na area de desenvolvimento de sistemas</p>
-<p>E estou desenvolvendo conheciementos nessas linguagens e ferramentas</p>
+<p>E estou desenvolvendo conhecimentos nessas linguagens e ferramentas</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
