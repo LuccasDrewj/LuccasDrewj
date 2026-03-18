@@ -20,6 +20,10 @@
 
 ##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasDrewj&layout=compact)
+
+##
+
 Aqui estão minhas redes sociais
 
 <div> 
